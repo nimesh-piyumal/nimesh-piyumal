@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Tech God</h1>
-<h3 align="center">A whatsapp bot developer from India</h3>
+<h1 align="center">Hi 👋, I'm Nimesh Piyumal</h1>
+<h3 align="center">A whatsapp bot developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimesh-piyumal&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-piyumal" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimesh-piyumal" alt="nimesh-piyumal" /></a> </p>
 
-- 🔭 I’m currently working on [Whatsapp bot](wa.me/917466008456)
+- 🔭 I’m currently working on [Whatsapp bot](wa.me/94786802371)
 
 - 🌱 I’m currently learning **Javascript & pythan**
 
@@ -19,7 +19,7 @@
 
 - 💬 Ask me about **Whatsapp bot**
 
-- 📫 How to reach me **wa.me/917466008456**
+- 📫 How to reach me **wa.me/94786802371**
 
 - 📄 Know about my experiences [youtube.com/@nimesh-piyumal](youtube.com/@nimesh-piyumal)
 
