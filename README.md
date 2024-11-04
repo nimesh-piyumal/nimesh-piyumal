@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimesh-piyumal&label=Profile%20views&color=0e75b6&style=flat" alt="nimesh-piyumal" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nimesh-piyumal" alt="nimesh-piyumal" /></a> </p>
+<p align="left"> <a href="/"><img src="https://github-profile-trophy.vercel.app/?username=nimesh-piyumal" alt="nimesh-piyumal" /></a> </p>
 
 - 🔭 I’m currently working on [Whatsapp bot](wa.me/94786802371)
 
