@@ -131,12 +131,12 @@ No Activity Tracked This Week
   
  <br><br> 
 <p align="center">
-  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
+  <a href="https://www.youtube.com/@nimesh-official"><img title="Youtube Videos" src="https://github.com/Alien-alfa/Alien-alfa/blob/beta/MD-Images/yt.png?raw=true" width="180"/></a></div>
   
 <p align="center">
-  <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A?sub_confirmation=1">
+  <a href="https://www.youtube.com/@nimesh-official">
       <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://freshidea.com/jonah/youtube-api/subscribers-badge.php?label=Subscribers&style=for-the-badge&color=red&labelColor=ce4630"/></a> 
-    <a href="https://youtube.com/channel/UCvdAz2Ll-LedcDApJ2IGP6A">
+    <a href="https://www.youtube.com/@nimesh-official">
       <img alt="youtube views" title="YouTube views" src="https://freshidea.com/jonah/youtube-api/view-count-badge.php?label=View+Count&style=for-the-badge&color=blue&labelColor=0b689d"/></a>
   </p>
 </p>
@@ -151,8 +151,8 @@ No Activity Tracked This Week
 
 ## Connect with me: <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" height="32">
 <p align="center">
-<a href="https://sltechtips.zyrosite.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="Nimesh Piyumal" /></a>   
-<a href="https://api.whatsapp.com/send?phone=94775200935&text=Hello%20Nimesh Piyumal" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="Nimesh Piyumal"/></a>
+<a href="https://nimeshofficial.pw" target="blank"><img align="center" height="22px" src="./SocialLogo/Web.png" alt="Nimesh Piyumal" /></a>   
+<a href="https://api.whatsapp.com/send?phone=94786802371&text=Hello%20Nimesh Piyumal" target="blank"><img align="center" height="22px" src="./SocialLogo/WhatsApp.png" alt="Nimesh Piyumal"/></a>
 <a href="https://telegram.me/nimeshkolla" target="blank"><img align="center" height="22px" src="./SocialLogo/Telegram.png" alt="Nimesh Piyumal" /></a>   
 <a href="mailto:Nimesh Piyumal?&subject=Nimesh Piyumal Official Help&body=nimeshofficial.info@gmail.com" target="blank"><img align="center" height="22px" src="./SocialLogo/Gmail.png" alt="Nimesh Piyumal" /></a>   
 </p>
