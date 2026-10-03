@@ -22,3 +22,20 @@
   Hello! I'm Nimesh Piyumal, a passionate Full Stack Developer and tech entrepreneur. Currently balancing academic pursuits with software development, I specialize in creating modern web applications and innovative solutions.
 </div>
 
+### 🎓 Educational Journey
+- 💡 Self-taught programmer since 2022
+- 🌱 Constantly learning new technologies
+- 🏆 Participated in several coding competitions
+
+### 💻 Development Focus
+- Building scalable web applications with React and Next.js
+- Creating fast and efficient development environments using Vite
+- Developing RESTful APIs with Node.js and Express
+- Database design and management with MongoDB
+- Cross-platform desktop applications with Electron
+
+### 🌟 Current Goals
+- 💻 Expand full-stack development expertise
+- 🤝 Contribute to open-source projects
+- 📱 Explore mobile app development
+- 🎯 Build more real-world applications
