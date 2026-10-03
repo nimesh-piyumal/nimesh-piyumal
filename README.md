@@ -6,10 +6,10 @@
   # Nimesh Piyumal
   ### Full Stack Developer
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Advanced+Level+Student;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=4ebf24&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;Advanced+Level+Student;Tech+Enthusiast;Problem+Solver)](https://git.io/typing-svg)
 
    <p>
-    <a href="https://ceylonnet" target="_blank"><img src="https://img.shields.io/badge/Website-2F81F7?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+    <a href="https://ceylonnet" target="_blank"><img src="https://img.shields.io/badge/Website-4ebf24?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
     <a href="https://github.com/nimesh-piyumal" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
     <a href="https://t.me/nimeshpiyumal" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
     <a href="https://discord.com/users/nimeshpiyumal" target="_blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
